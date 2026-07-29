@@ -21,7 +21,7 @@
 
 ※電池を入れた直後は消費電流が約5mA（再生中と同等）あり電池の消耗が進みますのでご注意ください。一度再生したあとは、低消費電力モード（5uA程度）になります。
 
-[音声再生例](https://github.com/akita11/SoundKeyChain/blob/main/SoundKeyChain_play.mov)
+[音声再生例](https://github.com/akita11/SoundKeyChain/blob/main/SoundKeyChain_play.mp4)
 
 
 ## 音声データの保存
