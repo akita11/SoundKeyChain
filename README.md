@@ -12,12 +12,16 @@
 
 <img src="https://github.com/akita11/SoundKeyChain/blob/main/SoundKeyChain3.jpg" width="240px">
 
+<img src="https://github.com/akita11/SoundKeyChain/blob/main/SoundKeyChain4.jpg" width="240px">
+
 コイン電池(CR2025)を、基板側がマイナス側に向きに差し込みます。
-一度、どれかのボタンを押して再生してください。
+**電池をセットしたあと、一度、どれかのボタンを押して再生してください。**
 
 1, 2, 3のボタンを押すと、それぞれ001.mpg, 002.mp3, 003.mp3を再生します。
 
 ※電池を入れた直後は消費電流が約5mA（再生中と同等）あり電池の消耗が進みますのでご注意ください。一度再生したあとは、低消費電力モード（5uA程度）になります。
+
+[音声再生例](https://github.com/akita11/SoundKeyChain/blob/main/SoundKeyChain_play.mov)
 
 
 ## 音声データの保存
@@ -28,6 +32,11 @@
 
 容量は合計で最大300KBのため、必要に応じてビットレートやビット数の調整、モノラル化などの処理を行ってください。
 （例えば[Webのmp3データ形式変換サイト](https://online-audio-converter.com/ja/)などを利用できます）
+
+
+## 音量の変更
+
+PCに接続してUSBメモリとして認識されているドライブの中にあるconfig.txtで機能を設定をできます。設定方法の詳細はconfig.txtに記載されていますが、1行目の2-3文字目（初期設定では"30"）で音量を変更できます（最大30）。
 
 
 ## Author
