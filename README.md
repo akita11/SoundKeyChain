@@ -14,7 +14,7 @@
 
 <img src="https://github.com/akita11/SoundKeyChain/blob/main/SoundKeyChain4.jpg" width="240px">
 
-コイン電池(CR2025)を、基板側がマイナス側に向きに差し込みます。
+コイン電池(CR2025 or CR2032)を、基板側がマイナス側に向きに差し込みます。
 
 1, 2, 3のボタンを押すと、それぞれ001.mpg, 002.mp3, 003.mp3を再生します。
 
